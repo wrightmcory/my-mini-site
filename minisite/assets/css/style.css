@@ -27,18 +27,17 @@ img {
 }
 
 a {
-    display:block;
-    width:fit-content;
-    margin:20px auto;
-    padding:12px 20px;
-    background-color:#d0b56a;
-    color:aquamarine
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    padding: 12px 20px;
+    background-color: #d0b56a;
+    color: aquamarine;
     border: 2px solid #d0b56a;
-    border-radius:8px;
-    font-weight:bold;
-    text-decoration:none;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
 }
-
 p {
     padding:20px 100px;
 }
